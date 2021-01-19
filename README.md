@@ -13,14 +13,17 @@ The purpose of this project is to follow a tutorial based project to create a Gr
 
 ## Examples of Querying
 Creating a new link as an authenticated user:
-![Image of Cart](https://github.com/mchadds/React-Shopping-Cart-Patterns/blob/master/images/Cart.png)
+![Image Link Query](https://github.com/mchadds/GraphQL-News-Clone/blob/main/imgs/NewLinkWithAuthentication.PNG)
 
 Subscription to new up votes on links: 
-![Image of Cart](https://github.com/mchadds/React-Shopping-Cart-Patterns/blob/master/images/Cart.png)
+![Image Subscription Query](https://github.com/mchadds/GraphQL-News-Clone/blob/main/imgs/VoteSubscription.PNG)
 
 
-
-## Back-end Tools
+## Tools
 - [Node.js](https://nodejs.org/en/) JavaScript runtime environment (driver used for CRUD operations)
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) Cloud environment where database cluster is hosted with sample data
-- [Express.js](https://expressjs.com/) Framework for API
+- [SQLite](https://www.sqlite.org/index.html) Database
+- [apollo-server](https://www.apollographql.com/docs/apollo-server/) GraphQL server library built on Express.js
+- [Prisma](https://www.prisma.io/) Database access 
+
+## Languages
+- [JavaScript](https://www.javascript.com/)
