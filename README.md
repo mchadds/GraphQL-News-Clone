@@ -20,7 +20,7 @@ Subscription to new up votes on links:
 
 
 ## Tools
-- [Node.js](https://nodejs.org/en/) JavaScript runtime environment (driver used for CRUD operations)
+- [Node.js](https://nodejs.org/en/) JavaScript runtime environment 
 - [SQLite](https://www.sqlite.org/index.html) Database
 - [apollo-server](https://www.apollographql.com/docs/apollo-server/) GraphQL server library built on Express.js
 - [Prisma](https://www.prisma.io/) Database access 
