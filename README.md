@@ -13,10 +13,10 @@ The purpose of this project is to follow a tutorial based project to create a Gr
 
 ## Examples of Querying
 Creating a new link as an authenticated user:
-
+![Image of Cart](https://github.com/mchadds/React-Shopping-Cart-Patterns/blob/master/images/Cart.png)
 
 Subscription to new up votes on links: 
-
+![Image of Cart](https://github.com/mchadds/React-Shopping-Cart-Patterns/blob/master/images/Cart.png)
 
 
 
