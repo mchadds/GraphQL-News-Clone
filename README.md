@@ -1,7 +1,7 @@
 ﻿# GraphQL-News-Clone
  
 ## Description
-The purpose of this project is to follow a tutorial based project to create a GraphQL server from scratch.
+The purpose of this project is to follow a tutorial based exercise to create a GraphQL server from scratch.
 
 ## Query Capabilities
 - Creating a new user
