@@ -1,7 +1,7 @@
 ﻿# GraphQL-News-Clone
  
 ## Description
-The Project uses a GraphQL server createds from scratch to query data.
+The project uses a GraphQL server createds from scratch to query data.
 
 ## Query Capabilities
 - Creating a new user
