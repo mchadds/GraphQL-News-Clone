@@ -1,5 +1,6 @@
 ﻿# GraphQL-News-Clone
  
+ 
 ## Description
 The project uses a GraphQL server createds from scratch to query data.
 
